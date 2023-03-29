@@ -2,4 +2,4 @@
 
 - Few-shot Semantic Segmentation
 - Video Instance Segmentaion
-- Video Object Segmentation
+- Video Object Segmentation(RVOS, SVOS, UVOS)
