@@ -1,5 +1,5 @@
-### Some computer vision topic paper lists about:
+### Some computer vision research paper about:
 
-- Few-shot Semantic Segmentation
-- Video Instance Segmentaion
+- Few-shot Semantic Segmentation(FSS)
+- Video Instance Segmentaion(VIS)
 - Video Object Segmentation(RVOS, SVOS, UVOS)
