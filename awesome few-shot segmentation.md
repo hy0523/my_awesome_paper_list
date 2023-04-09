@@ -2,7 +2,7 @@
 
 | Year | Method    | Title                                                        | Pub                             | Link                                                         |
 | ---- | --------- | ------------------------------------------------------------ | ------------------------------- | ------------------------------------------------------------ |
-| 2023 | HDMNet    | Hierarchical Dense Correlation Distillation for Few-Shot Segmentation | CVPR2023                        | [paper](https://arxiv.org/pdf/2303.14652.pdf) \| [code]([Pbihao/HDMNet (github.com)](https://github.com/Pbihao/HDMNet)) |
+| 2023 | HDMNet    | Hierarchical Dense Correlation Distillation for Few-Shot Segmentation | CVPR2023                        | [paper](https://arxiv.org/pdf/2303.14652.pdf) \| [code](https://github.com/Pbihao/HDMNet) |
 | 2022 | IPMT      | Intermediate Prototype Mining Transformer for Few-Shot Semantic Segmentation | NeurIPS2022                     | [paper](https://arxiv.org/pdf/2210.06780.pdf) \| [code](https://github.com/LIUYUANWEI98/IPMT) |
 | 2022 | FPTrans   | Feature-Proxy Transformer for Few-Shot Segmentation          | NeurIPS2022                     | [paper](https://openreview.net/pdf?id=hBaI5MY0CBz) \| [code](https://github.com/Jarvis73/FPTrans) |
 | 2022 | iFSL      | Integrative Few-Shot Learning for Classification and Segmentation | CVPR2022                        | [project](http://cvlab.postech.ac.kr/research/iFSL/)         |
