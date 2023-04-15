@@ -3,6 +3,7 @@
 | Year | Method           | Title                                                        | Pub              | Link                                                         |
 | ---- | ---------------- | ------------------------------------------------------------ | ---------------- | ------------------------------------------------------------ |
 | 2023 | MindVLT          | Towards Open-Vocabulary Video Instance Segmentation          | arXiv:2304.01715 | [paper](https://arxiv.org/pdf/2304.01715.pdf)                |
+| 2023 |                  | Towards Robust Video Instance Segmentation with Temporal-Aware Transformer |                  | [paper](https://arxiv.53yu.com/pdf/2301.09416)               |
 | 2023 | InstanceFormer   | InstanceFormer: An Online Video Instance Segmentation Framework | AAAI23           | [paper](https://arxiv.org/abs/2208.10547) \| [code](https://github.com/rajatkoner08/InstanceFormer) |
 | 2022 | Deformable VisTR | Deformable VisTR : Spatio temporal deformable attention for video instance segmentation | ICASSP22         | [paper](https://arxiv.org/pdf/2203.06318.pdf) \| [code](https://github.com/skrya/DefVIS) |
 | 2022 | MSSTS-VIS        | Video Instance Segmentation via Multi-scale Spatio-temporal Split Attention Transformer | ECCV22           | [paper](https://arxiv.org/pdf/2203.13253.pdf) \| [code](https://github.com/OmkarThawakar/MSSTS-VIS) |

@@ -2,7 +2,8 @@
 
 | Year | Method                 | Title                                                        | Pub      | Link                                                         |
 | ---- | ---------------------- | :----------------------------------------------------------- | -------- | ------------------------------------------------------------ |
-| 2022 | DeAOT                  | Decoupling Features in Hierarchical Propagation for Video Object Segmentation | NIPS2022 | [paper](https://arxiv.org/pdf/2210.09782.pdf) \| [code](https://github.com/z-x-yang/AOT) |
+| 2023 | Mask-VOS               | Unified Mask Embedding and Correspondence Learning for Self-Supervised Video Segmentation | CVPR23   | [paper](https://arxiv.org/pdf/2303.10100.pdf)\|[code]([Page not found · GitHub](https://github.com/0liliulei/Mask-VOS)) |
+| 2022 | DeAOT                  | Decoupling Features in Hierarchical Propagation for Video Object Segmentation | NIPS22   | [paper](https://arxiv.org/pdf/2210.09782.pdf) \| [code](https://github.com/z-x-yang/AOT) |
 | 2022 | RobustVOS              | Towards Robust Video Object Segmentation with Adaptive Object Calibration | ACMMM22  | [paper](https://arxiv.org/pdf/2207.00887.pdf) \| [code](https://github.com/JerryX1110/Robust-Video-Object-Segmentation) |
 | 2022 | RPCM                   | Reliable Propagation-Correction Modulation for Video Object Segmentation | AAAI2022 | [paper](https://arxiv.org/pdf/2112.02853.pdf)\| [code](https://github.com/JerryX1110/RPCMVOS) |
 | 2022 | BATMAN                 | BATMAN: Bilateral Attention Transformer in Motion-Appearance Neighboring Space for Video Object Segmentation | ECCV2022 | [paper](https://arxiv.org/pdf/2208.01159.pdf)                |
